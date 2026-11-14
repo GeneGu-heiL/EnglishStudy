@@ -1,0 +1,20 @@
+{
+  "name": "美剧精练复习器",
+  "short_name": "美剧复习",
+  "description": "看美剧摘句、挖空回忆、跟读录音与间隔复习。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6f8",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

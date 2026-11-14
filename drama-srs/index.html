@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>美剧精练复习器</title>
+<meta name="theme-color" content="#2563eb">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="美剧复习">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon.svg">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>美剧精练复习器</h1>
+  <span id="netBadge" class="badge">在线</span>
+</header>
+
+<main id="app"></main>
+
+<nav class="tabbar">
+  <a href="#/review" data-tab="review"><span>🎧</span>复习</a>
+  <a href="#/cards" data-tab="cards"><span>🗂</span>卡片</a>
+  <a href="#/add" data-tab="add"><span>➕</span>添加</a>
+  <a href="#/settings" data-tab="settings"><span>⚙️</span>设置</a>
+</nav>
+
+<script src="app.js"></script>
+</body>
+</html>
