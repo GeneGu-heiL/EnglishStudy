@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "美剧复习",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "美剧复习",
+  "start_url": "/",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://englishstudy-iota.vercel.app/icons/icon.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "description": "看剧摘句、挖空回忆、跟读录音与间隔复习"
+}
